@@ -1,0 +1,4 @@
+/Users/sarah/Documents/repos/obj/Debug/netcoreapp3.1/repos.csprojAssemblyReference.cache
+/Users/sarah/Documents/repos/obj/Debug/netcoreapp3.1/repos.AssemblyInfoInputs.cache
+/Users/sarah/Documents/repos/obj/Debug/netcoreapp3.1/repos.AssemblyInfo.cs
+/Users/sarah/Documents/repos/obj/Debug/netcoreapp3.1/repos.csproj.CoreCompileInputs.cache

@@ -10,3 +10,9 @@
 /Users/sarah/Documents/MIS 221/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
 /Users/sarah/Documents/MIS 221/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
 /Users/sarah/Documents/MIS 221/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.genruntimeconfig.cache
+/Users/sarah/Documents/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/Users/sarah/Documents/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/Users/sarah/Documents/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/Users/sarah/Documents/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/sarah/Documents/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/Users/sarah/Documents/repos/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb

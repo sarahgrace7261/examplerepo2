@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sarah/Documents/MIS 221/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/sarah/Documents/repos/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/sarah/Documents/MIS 221/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/sarah/Documents/repos/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/sarah/.nuget/packages/",
-      "outputPath": "/Users/sarah/Documents/MIS 221/HelloWorld/obj/",
+      "outputPath": "/Users/sarah/Documents/repos/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sarah/.nuget/NuGet/NuGet.Config"
